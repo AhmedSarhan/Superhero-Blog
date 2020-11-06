@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/About/index.js": "pages/About/index.js",
+    "pages/Admin/Auth/index.js": "pages/Admin/Auth/index.js",
+    "pages/Admin/_postId/index.js": "pages/Admin/_postId/index.js",
+    "pages/Admin/index.js": "pages/Admin/index.js",
+    "pages/Admin/new-post/index.js": "pages/Admin/new-post/index.js",
+    "pages/Posts/_id/index.js": "pages/Posts/_id/index.js",
+    "pages/Posts/index.js": "pages/Posts/index.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/About/index.js": "pages/About/index.js.map",
+    "pages/Admin/Auth/index.js": "pages/Admin/Auth/index.js.map",
+    "pages/Admin/_postId/index.js": "pages/Admin/_postId/index.js.map",
+    "pages/Admin/index.js": "pages/Admin/index.js.map",
+    "pages/Admin/new-post/index.js": "pages/Admin/new-post/index.js.map",
+    "pages/Posts/_id/index.js": "pages/Posts/_id/index.js.map",
+    "pages/Posts/index.js": "pages/Posts/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
