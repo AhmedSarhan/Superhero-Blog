@@ -1,0 +1,32 @@
+{
+  "AdminPostForm": {
+    "description": "Auto imported from components/AdminPostForm.vue"
+  },
+  "LazyAdminPostForm": {
+    "description": "Auto imported from components/AdminPostForm.vue"
+  },
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "LazyLoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "PostsList": {
+    "description": "Auto imported from components/PostsList.vue"
+  },
+  "LazyPostsList": {
+    "description": "Auto imported from components/PostsList.vue"
+  },
+  "PostsPreview": {
+    "description": "Auto imported from components/PostsPreview.vue"
+  },
+  "LazyPostsPreview": {
+    "description": "Auto imported from components/PostsPreview.vue"
+  },
+  "TheHeader": {
+    "description": "Auto imported from components/TheHeader.vue"
+  },
+  "LazyTheHeader": {
+    "description": "Auto imported from components/TheHeader.vue"
+  }
+}

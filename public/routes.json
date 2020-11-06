@@ -1,0 +1,50 @@
+[
+  {
+    "name": "About",
+    "path": "/About",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\About\\\\index.vue",
+    "chunkName": "pages/About/index"
+  },
+  {
+    "name": "Admin",
+    "path": "/Admin",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Admin\\\\index.vue",
+    "chunkName": "pages/Admin/index"
+  },
+  {
+    "name": "Posts",
+    "path": "/Posts",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Posts\\\\index.vue",
+    "chunkName": "pages/Posts/index"
+  },
+  {
+    "name": "Admin-Auth",
+    "path": "/Admin/Auth",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Admin\\\\Auth\\\\index.vue",
+    "chunkName": "pages/Admin/Auth/index"
+  },
+  {
+    "name": "Admin-new-post",
+    "path": "/Admin/new-post",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Admin\\\\new-post\\\\index.vue",
+    "chunkName": "pages/Admin/new-post/index"
+  },
+  {
+    "name": "Admin-postId",
+    "path": "/Admin/:postId",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Admin\\\\_postId\\\\index.vue",
+    "chunkName": "pages/Admin/_postId/index"
+  },
+  {
+    "name": "Posts-id",
+    "path": "/Posts/:id",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\Posts\\\\_id\\\\index.vue",
+    "chunkName": "pages/Posts/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Workspace\\\\spiderman-blog\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
