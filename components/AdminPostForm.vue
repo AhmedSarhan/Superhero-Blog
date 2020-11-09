@@ -8,6 +8,7 @@
         id="Authname"
         name="Authname"
         v-model="editedPost.author"
+        required
       />
     </div>
     <div class="form-group">
@@ -18,16 +19,18 @@
         id="title"
         name="title"
         v-model="editedPost.title"
+        required
       />
     </div>
     <div class="form-group">
       <label for="thumbnail">Thumbnail</label>
       <input
         class="form-control"
-        type="text"
+        type="url"
         id="thumbnail"
         name="thumbnail"
         v-model="editedPost.thumbnail"
+        required
       />
     </div>
     <div class="form-group">
@@ -38,6 +41,7 @@
         id="content"
         rows="7"
         v-model="editedPost.content"
+        required
       ></textarea>
     </div>
     <div class="form-group">
@@ -48,6 +52,7 @@
         id="content"
         rows="3"
         v-model="editedPost.preview"
+        required
       ></textarea>
     </div>
     <div class="form-group">
